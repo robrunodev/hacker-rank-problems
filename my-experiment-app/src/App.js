@@ -6,6 +6,8 @@ function App() {
 
   const { counter, handleAddCounter } = useApp()
 
+  
+
   return (
     <div className="App">
       <header className="App-header">
